@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ANR</string>
+    <string name="hello_world">Click the button bellow to get an ANR (Application Not Respoding</string>
+    <string name="long_operation">Loooong operation</string>
+    <string name="dumb_button">Dumb Button</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

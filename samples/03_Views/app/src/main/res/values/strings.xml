@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Views</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view">TextView</string>
+    <string name="button">Button</string>
+    <string name="edit_text">This is the hint of an EditText</string>
+    <string name="radio">Radio Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="switchItem">Switch</string>
+
+</resources>
