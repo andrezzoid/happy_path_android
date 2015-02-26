@@ -4,6 +4,6 @@
     <string name="app_name">Receivers</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="exp">Wait for Toasts with notifications about battery status. If you\'re running on an Emulator, try and change battery level!</string>
+    <string name="exp">Wait for Toasts with notifications about Wi-Fi status. Try and connect and disconnect Wi-Fi!</string>
 
 </resources>

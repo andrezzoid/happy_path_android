@@ -89,7 +89,6 @@ public class MainActivity extends Activity {
     //      STATE
     //
 
-
     @Override
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);
