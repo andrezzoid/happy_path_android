@@ -16,6 +16,7 @@ public class DownloadService extends IntentService {
     @Override
     protected void onHandleIntent(Intent intent) {
         Log.d(TAG, "onHandleIntent()");
+        Log.d(TAG, Thread.currentThread().toString());
         Log.d(TAG, "Downloading File...");
         // TODO: Code to download file here! We're just going to fake a download for 10seconds.
         ThreadUtils.sleepUninterruptibly(10000);

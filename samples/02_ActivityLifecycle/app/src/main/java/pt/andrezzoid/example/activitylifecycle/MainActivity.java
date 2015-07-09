@@ -88,7 +88,7 @@ public class MainActivity extends Activity {
     // --------------------------------------------------------------------------------------------
     //      STATE
     //
-
+/*
     @Override
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);
@@ -103,4 +103,5 @@ public class MainActivity extends Activity {
         Log.d(TAG, "onSaveInstanceState()");
         outState.putInt("COUNT_VALUE", count);
     }
+    */
 }
